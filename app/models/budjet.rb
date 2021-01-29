@@ -1,0 +1,2 @@
+class Budjet < ApplicationRecord
+end
